@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse — Student Hackdays & Opportunity Radar",
+  "description": "Android-first mobile hub helping students discover hackdays, university events, scholarships, and opportunities without social media noise. Includes an AI student opportunity advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
